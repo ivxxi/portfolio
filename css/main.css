@@ -6,10 +6,26 @@ body {
   }
 
 
-#projects, #about, #contact{
-    background-image: url('images/body-of-water-under-blue-sky-during-sunset-3801066.jpg');
+#projects{
+    background-image: url('images/silhouette-photo-of-a-man-walking-on-seashore-during-sunset-3761178.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+
+}
+/* 
+ #about{
+  background-image: url('images/calm-ocean-panoramic-photography-845254.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+} */
+
+#contact{
+  background-image: url('images/abstract-art-black-background-blur-1040499.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 
 }
